@@ -1,0 +1,52 @@
+/* This CSS file created by 
+Vasudev Jaiswal 
+Owner of Jaiswal's Development Studio */
+
+body {
+    background-image: url("background.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    text-align: center;
+    color: azure;
+    font-weight: bolderS;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 100px;
+}
+
+p {
+    font-size: 50px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 300px;
+    background: goldenrod;
+    padding-top: 13px;
+    padding-bottom: 25px;
+    font-weight: bolder;
+    font-size: 25px;
+    height: 50px;
+    font-style: italic;
+    border: none;
+    border-radius: 7px;
+    margin-bottom: 48px;
+    margin-top: -20px;
+    display: block;
+    margin-left: 610px;
+}
+
+
+/* .btn-group {
+    align-items: center;
+    text-align: center;
+} */
+
+
+/*  */
